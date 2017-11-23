@@ -2,6 +2,8 @@
 
 This repository contains the blog posts created by students in Stat 133, Fall 2017 edition.
 
+Enjoy the reading!
+
 - [lab 101](lab101)
 - [lab 102](lab102)
 - [lab 103](lab103)
